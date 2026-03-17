@@ -1,0 +1,4 @@
+1. npm run dev
+2. Edit code in VS Code
+3. Save file
+4. Refresh browser

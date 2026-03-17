@@ -1,0 +1,25 @@
+app/
+│
+├── server.js
+├── package.json
+├── .gitignore
+│
+├── public/          # frontend files
+│   ├── index.html
+│   ├── script.js
+│   └── styles.css
+│
+├── routes/          # API routes
+│   └── tasks.js
+│
+├── controllers/     # logic for handling requests
+│   └── tasksController.js
+│
+├── services/        # business logic / processing
+│   └── taskService.js
+│
+├── data/            # storage layer
+│   └── tasks.json
+│
+└── utils/           # helper utilities
+    └── fileHelper.js

@@ -1,0 +1,8 @@
+GitHUB token:
+
+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
+
+Normal workflow;
+git add .
+git commit -m "update"
+git push
